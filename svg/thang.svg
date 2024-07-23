@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1 999/xhtml">
+		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         @keyframes spinAround {
           0% { background-position: 0 0 }
